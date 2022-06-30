@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/screenshot.png" alt="Logo Bikcraft">
+  <img src=".github/screenshot.png" alt="screenshot">
 </div>
 
 # Animais Fantásticos
