@@ -23,7 +23,7 @@ Desenvolvido com as seguintes ferramentas:
 $ git clone https://github.com/heyanaclara/animais-fantasticos.git
 
 - Entre no diretório:
-$ cd bikcraft
+$ cd animais-fantasticos
 
 - Instale as dependências:
   # com npm
