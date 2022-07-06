@@ -6,7 +6,7 @@
 # :fox_face: Sobre o Projeto
 Projeto fictício realizado durante o curso de JavaScript Completo ES6 da Origamid, consiste em um site para exibir alguns animais fantasticos que habitam no planeta.
 
-#⚡ Tecnologias
+# ⚡ Tecnologias
 Desenvolvido com as seguintes ferramentas:
 
 * HTML5
